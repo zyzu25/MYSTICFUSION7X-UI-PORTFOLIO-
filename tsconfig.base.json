@@ -22,5 +22,8 @@
     "target": "es2022",
     "types": [],
     "customConditions": ["workspace"]
+    "compilerOptions": {
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   }
 }
